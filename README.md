@@ -28,8 +28,8 @@ This project was created to practice:
 
 ## Installation
 
-git clone <repository-url>
-cd apple-website-clone-react
-npm install
-npm run dev
+-git clone <repository-url>
+-cd apple-website-clone-react
+-npm install
+-npm run dev
 
