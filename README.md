@@ -1,16 +1,35 @@
-# React + Vite
+# Apple Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Apple website recreation built with React. This project focuses on recreating Apple's clean design, responsive layouts, smooth animations, and premium user experience while practicing frontend development and component-based architecture.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Apple-inspired modern user interface
+- Reusable React components
+- Smooth scrolling effects and animations
+- Product showcase sections
+- Modern CSS styling and layouts
+- Responsive image handling
+- User-friendly design principles
+- Scalable project organization
+- And much more
 
-## React Compiler
+## Learning Objectives
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project was created to practice:
 
-## Expanding the ESLint configuration
+- React development
+- Component-based architecture
+- Responsive web design
+- Modern frontend development
+- UI/UX implementation
+- CSS layouts and styling
+- Performance optimization
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+git clone <repository-url>
+cd apple-website-clone-react
+npm install
+npm run dev
+
